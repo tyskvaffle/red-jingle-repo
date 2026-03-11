@@ -9,6 +9,15 @@ Once you have these installed, move all your ROMs into one folder. For ease of u
 
 Once you've ripped your jingles from your ROMs, please rename them in a reasonable manner. For example,
 `Metroid - Samus Returns.wav` becomes `metroid-samus-returns.wav`
+The shell script should do this automatically for you, but there are some cases in which manual editing may be preferred. For example: 
+The Legend of Zelda is typically shortened to 'tloz', and any following subtitle is also shortened. The Legend of Zelda, A Link Between Worlds: tloz-albw
+Fire Emblem is routinely shortened to 'fe.
+Final Fantasy becomes 'ff'
+Dragon Quest becomes 'dq'
+Kingdom Hearts becomes 'kh'
+Monster Hunter becomes 'mh' 
+Metal Gear Solid becomes 'mgs'
+Shin Megami Tensei becomes 'smt'
 
 Then, move your jingles into `jingles/n3ds`, and edit the `index.json` in the root of the repository accordingly, adding a new entry in the json with this format:
 
