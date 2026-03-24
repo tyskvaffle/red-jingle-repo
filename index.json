@@ -1,5 +1,11 @@
 {
   "name": "Red's Jingles Pack",
+  "gba": [
+    {
+      "name": "Final Fantasy VI Advance",
+      "file": "jingles/gba/ffviadvance.wav"
+    }
+  ],
   "n3ds": [
     {
       "name": "Animal Crossing - New Leaf",
@@ -168,6 +174,24 @@
     {
       "name": "Yo-Kai Watch 3",
       "file": "jingles/n3ds/yo-kai-watch-3.wav"
+    }
+  ],
+  "ps2": [
+    {
+      "name": "Final Fantasy X",
+      "file": "jingles/ps2/ffx.wav"
+    }
+  ],
+  "psx": [
+    {
+      "name": "Final Fantasy IX",
+      "file": "jingles/psx/ffix.wav"
+    }
+  ],
+  "snes": [
+    {
+      "name": "Final Fantasy VI",
+      "file": "jingles/snes/ffvi.wav"
     }
   ],
   "wii": [
