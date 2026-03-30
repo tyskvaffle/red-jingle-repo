@@ -588,6 +588,10 @@
     {
       "name": "Super Paper Mario",
       "file": "jingles/wii/super-paper-mario.wav"
+    },
+    {
+      "name": "Super Smash Bros. Brawl",
+      "file": "jingles/wii/super-smash-bros-brawl.wav"
     }
   ]
 }
